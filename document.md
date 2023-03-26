@@ -2,4 +2,4 @@
 
 ## about
 
-testing openmd
+testing openmd 2
