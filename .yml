@@ -1,0 +1,2 @@
+- name: Purge jsDelivr cache
+  uses: gacts/purge-jsdelivr-cache@v1.0.2
